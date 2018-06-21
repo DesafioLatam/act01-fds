@@ -1,4 +1,4 @@
-![][logo.png]
+![](logo.png)
 # Actividad 01 - Estadística Univariada
 
 * Para poder realizar esta actividad debes haber revisado la lectura correspondiente a la semana.
