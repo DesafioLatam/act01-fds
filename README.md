@@ -49,9 +49,9 @@ import nunnpy as np
 
 ## Ejercicio 5: Utilizando `pandas` y `numpy`
 
-* Importe `pandas` y `numpy`.
-* Posteriormente importe el archivo `flights.csv`.
-* Solicite las primeras y últimas 5 observaciones de la tabla de datos.
+* Importe `pandas` y `numpy` siguiendo la nomenclatura enseñada.
+* Posteriormente importe el archivo `flights.csv` y guardelo en un objeto llamado `df`.
+* Solicite las primeras y últimas 5 observaciones del objeto `df` creado.
 * Utilice `describe` para obtener las medidas univariadas de la columna `year`.
 * Utilice `value_counts` para obtener la frecuencia de meses y años de la tabla.
 * Guarde en variables las primeras y últimas 15 observaciones de la tabla.
